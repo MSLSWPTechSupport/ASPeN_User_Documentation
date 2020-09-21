@@ -1,0 +1,5 @@
+# ASPeN Manual
+
+## Continuing Education Program Tracks
+
+The Montana State Library's Continuing Education Program is broken up into different tracks.  These tracks focus on the main work responsibilities of Library Directors, Trustees, and Library Staff.  ASPeN will ask you to select a track.  You can select multiple tracks, but you must earn the required number of continuing education credits in order to become certified.  Library Directors should choose the Library Administration track.  Library staff should work with their supervisors to decide upon the appropriate track and any specializations.  There is shorter track for public library board members.

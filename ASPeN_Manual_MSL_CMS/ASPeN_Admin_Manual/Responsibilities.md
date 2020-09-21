@@ -1,0 +1,6 @@
+ASPeN Admin Manual
+Responsibilities
+FirstPrevNextLast
+Responsibilities is the term used to describe the editing and system administration rights a position has within ASPeN.  Responsibilities are tied to positions not people.  Why?  One person might be a director at one library with all of the rights of editing that library's information, but they might be serving on a committee of the Montana State Library as another position.  As a committee member, that person does not have the right to edit committee information.  By tying responsibilities to positions, ASPeN can distinguish between these two roles and what an individual can do with the program.
+
+The Library Director or Master Editor for an organization can choose to delegate responsibilities to another person associated with the organization.  This can be done through the ASPeN Admin menu options.  State Library staff can also delegate responsibilities.  This may be useful if a former library director leaves before a new one is hired.  MSL staff can  designate the new director as the Master Editor and/or ASPeN Organization Authority which gives the new director all rights to editing and managing their library's information.

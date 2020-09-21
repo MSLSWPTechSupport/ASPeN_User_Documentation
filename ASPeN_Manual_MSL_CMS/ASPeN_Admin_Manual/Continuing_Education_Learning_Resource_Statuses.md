@@ -1,0 +1,4 @@
+ASPeN Admin Manual
+Continuing Education Learning Resource Statuses
+FirstPrevNextLast
+ASPen provides a learning management function.  As participants in the Montana State Library's Continuing Education program take classes, they can add these credits independently within ASPeN or use the automated features within ASPeN to have the system track their progress.  If a participant uses the automated features by registering for an event within ASPeN, the system will place the course in the continuing education module and mark its status as pending.  It will remain in this status until the person is marked as having completed the learning resource.

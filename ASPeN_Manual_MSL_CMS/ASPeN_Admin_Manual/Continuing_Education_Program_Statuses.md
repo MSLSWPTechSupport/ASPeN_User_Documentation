@@ -1,0 +1,4 @@
+ASPeN Admin Manual
+Continuing Education Program Statuses
+FirstPrevNextLast
+ASPeN is designed to keep track of the number of continuing education hours you earn as you work towards earning your State Library certification.  We call the process of earning your certification a continuing education program.  A continuing education program status shows you whether or not you have submitted your application.  The system will also show whether or not your application has been approved or issued.  Once you see a status of issued, you can download your certificate showing that you have successfully completed the requirements for the continuing education program you chose.

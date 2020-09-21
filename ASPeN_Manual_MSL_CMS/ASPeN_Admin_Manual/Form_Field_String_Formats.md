@@ -1,0 +1,4 @@
+ASPeN Admin Manual
+Form Field String Formats
+FirstPrevNextLast
+ASPeN has some basic validation tools that can be used to check whether or not the person completing the form has given you the information you need.  Form Field String Formats are how you tell ASPeN what kind of data you are looking for with a particular question.  For example if you ask a person to tell you how much they spend on library materials, you can choose a form field string format of currency.  If the person tries to enter a date, raw number, or text, ASPeN will give them an error message.  State Library staff can add new form field strong formats if needed.
