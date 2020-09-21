@@ -1,0 +1,4 @@
+ASPeN Admin Manual
+Service Types
+FirstPrevNextLast
+Service Types are useful when you have a service that is offered over multiple years.  For example, the Montana Shared Catalog has been around for many years.  By using a service type of Montana Shared Catalog, we can insure that all the information for it is findable.  Use a service type such as this means we can add a service for each year which is very helpful for things like displaying which libraries were members during a certain period of time.  This applies to other services as well.  The system will then display and retain historical data as well as showing the current information.

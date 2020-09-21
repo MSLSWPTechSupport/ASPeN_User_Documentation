@@ -1,0 +1,4 @@
+ASPeN Admin Manual
+Continuing Education Program Track Participation Specializations
+FirstPrevNextLast
+In addition to general tracks that library directors, staff, or board members can choose for their continuing education, the Montana State Library's program also allows participants to choose specializations.  Participants in the continuing education program can choose to earn additional hours in one ore more of the categories listed.  If you are able to successfully earn the requisite number of hours in each category plus the additional hours in a specific category, you can earn a continuing education program track specialization.

@@ -1,0 +1,4 @@
+ASPeN Admin Manual
+Event Registration Statuses
+FirstPrevNextLast
+ASPeN will keep track of a person's progress when registering for an event.  If an event requires the completion of a form, the person registering can save the form and come back to it at a later date.  When this happens, the registration is listed as not submitted.  Once a person has completed and submitted the form, the event registration status will be listed as submitted.  Staff have the ability to mark an event registration as approved or denied.  ASPeN also has the ability to create waiting lists and gives staff the power to place someone on a waiting list.
